@@ -1,4 +1,4 @@
-# Desafio: Rocketseat/GoSatck
+# Desafio 09: Rocketseat/GoSatck
 
 # Relacionamentos com banco de dados no Node.js
 
